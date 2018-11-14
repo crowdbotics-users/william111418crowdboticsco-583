@@ -1,0 +1,20 @@
+{
+  "name": "william111418crowdboticsco_583",
+  "version": "0.1.0",
+  "description": "browser test This web_extension application was built with Crowdbotics www.crowdbotics.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "william+111418",
+    "email": "william+111418@crowdbotics.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
